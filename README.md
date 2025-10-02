@@ -1,5 +1,3 @@
-# demo
+# Demo
 This is demo file
 
-# Git
-This is demo git 
